@@ -2,9 +2,15 @@
 
 A modern, responsive quiz application built with Next.js 15, TypeScript, and Tailwind CSS. Powered by the Open Trivia Database API.
 
-![Trivia Master](https://img.shields.io/badge/Next.js-15.3.4-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)
+[![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://quiz-app-ten-theta-92.vercel.app/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+## 🌐 Live Demo
+
+**[Try the Quiz App Live!](https://quiz-app-ten-theta-92.vercel.app/)**
 
 ## ✨ Features
 
@@ -52,8 +58,8 @@ quiz-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
-   cd quiz-app
+   git clone https://github.com/Rahul-tech24/Quiz-app.git
+   cd Quiz-app
    ```
 
 2. **Install dependencies**
@@ -178,4 +184,4 @@ If you have any questions or need help, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ by the Trivia Master Team**
+**Made with ❤️ by [Rahul Kumar](https://github.com/Rahul-tech24)**
